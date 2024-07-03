@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arpita24k](https://github.com/Arpita24k)
 
-- 💬 Ask me about **LLM, TensorFlow, ML**
+- 💬 Ask me about **LLM, TensorFlow, Computer Vision, NN, ML**
 
 - 📫 How to reach me **ajadhav11@hawk.iit.edu**
 
